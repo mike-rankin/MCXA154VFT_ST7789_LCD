@@ -1,0 +1,7 @@
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_I2C_Scanner\drivers/fsl_clock.h:672:20:CLOCK_EnableClock	32	static
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_I2C_Scanner\drivers/fsl_reset.h:240:20:RESET_ReleasePeripheralReset	16	static
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_I2C_Scanner\drivers/fsl_gpio.h:345:20:GPIO_PinWrite	24	static
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_I2C_Scanner\drivers/fsl_gpio.h:427:24:GPIO_PinRead	16	static
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_I2C_Scanner\drivers/fsl_port.h:463:20:PORT_SetPinMux	24	static
+../source/MCXA154VFT_I2C_Scanner.c:40:13:I2C_BusRecover	24	static
+../source/MCXA154VFT_I2C_Scanner.c:73:5:main	72	static

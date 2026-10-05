@@ -1,0 +1,4 @@
+../source/lsm6ds3_lpi2c.c:23:17:LSM6DS3_ReadRegs	48	static
+../source/lsm6ds3_lpi2c.c:36:17:LSM6DS3_WriteReg	40	static
+../source/lsm6ds3_lpi2c.c:49:6:LSM6DS3_Init	16	static
+../source/lsm6ds3_lpi2c.c:75:6:LSM6DS3_ReadGyro	40	static

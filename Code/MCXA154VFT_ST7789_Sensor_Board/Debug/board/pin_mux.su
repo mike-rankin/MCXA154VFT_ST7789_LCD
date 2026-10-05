@@ -1,0 +1,6 @@
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_ST7789_Sensor_Board\drivers/fsl_clock.h:672:20:CLOCK_EnableClock	32	static
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_ST7789_Sensor_Board\drivers/fsl_reset.h:240:20:RESET_ReleasePeripheralReset	16	static
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_ST7789_Sensor_Board\drivers/fsl_port.h:463:20:PORT_SetPinMux	24	static
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_ST7789_Sensor_Board\drivers/fsl_gpio.h:487:20:GPIO_SetPinInterruptConfig	24	static
+../board/pin_mux.c:37:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:75:6:BOARD_InitPins	24	static

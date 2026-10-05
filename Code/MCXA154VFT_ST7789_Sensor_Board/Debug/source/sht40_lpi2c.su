@@ -1,0 +1,4 @@
+C:\Users\mrankin\OneDrive\NXP_Workspace\MCXA154VFT_ST7789_Sensor_Board\drivers/fsl_clock.h:672:20:CLOCK_EnableClock	32	static
+../source/sht40_lpi2c.c:12:16:SHT40_Crc8	32	static
+../source/sht40_lpi2c.c:26:6:SHT40_Init	40	static
+../source/sht40_lpi2c.c:47:6:SHT40_ReadMeasurement	56	static
